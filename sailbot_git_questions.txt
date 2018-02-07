@@ -1,0 +1,9 @@
+1. 
+git clone https://bitbucket.ubcsailbot.org/scm/tools/bash-settings.git
+
+2.
+# Assuming I'm working in master branch
+git add TestWindAngles.h wind_angles.inc
+git commit -m "Tuned wind angles and added unit tests."
+git push -u origin master
+
